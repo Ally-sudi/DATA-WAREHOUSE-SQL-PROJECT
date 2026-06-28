@@ -1,0 +1,14 @@
+/* QUALITY CHECK*/
+/* PURPOSE is 
+     This is process in silver layer to chek a data consistancy, accurracy,
+and standadization accross a silver schemas . 
+IT INCLUDES
+   -  NULL OR DUPLICATED PRIMARY KEY.
+   - UNWANTED SPACES IN STRING FIELD.
+   - DATA STANDADIZATION AND CONSISTANCE.
+   - INVALID DATE RANGES AND ORDER.
+   - DATA CONSISTANCE BETWEEN RELATED FIELDS.
+
+USAGE NOTES::
+  - TO RUN REQURED CHECJS AFTER DATA IS LOADED IN LAYER
+  - INVESTGATIGATE AND RESOLVE ANY DISCrepancies found during the check */
