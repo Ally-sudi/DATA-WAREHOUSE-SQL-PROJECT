@@ -1,4 +1,4 @@
-[Untitled Diagram.drawio](https://github.com/user-attachments/files/29466197/Untitled.Diagram.drawio)
+ 
 # DATA-WAREHOUSE-SQL-PROJECT
 Building a Modern Data WaeHouse with SQL Sever Including SQL Sever, ETL Process, Data Modeling and Analytics
 ...
