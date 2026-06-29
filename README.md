@@ -12,7 +12,8 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 ## 🏗️ Data Architecture
 
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
-![Data Architecture] [Uploading Untitled Diagram.drawio…]()<mxfile host="Electron">
+![Data Architecture]  <img width="527" height="430" alt="Screenshot 2026-06-29 060307" src="https://github.com/user-attachments/assets/e04aaf39-ca08-41b4-8097-9039e1481377" />
+ [Uploading Untitled Diagram.drawio…]()<mxfile host="Electron">
   <diagram name="Page-1" id="443cWP0aAfFMi0OqsIWP">
     <mxGraphModel dx="1540" dy="2519" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="#D0D0D0" math="0" shadow="1">
       <root>
