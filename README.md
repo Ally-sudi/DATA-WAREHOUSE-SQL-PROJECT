@@ -31,7 +31,8 @@ This project involves:
 - SQL Development
 - Data Architect
 - Data Engineering  
-- ETL Pipeline Developer  
+- <img width="160" height="160" alt="img icons8" src="https://github.com/user-attachments/assets/84a50a4f-dd15-4ba7-b80d-6937cf2afb29" />
+ ETL Pipeline Developer  
 - Data Modeling  
 - Data Analytics  
 
@@ -40,12 +41,15 @@ This project involves:
 ## 🛠️ Important Links & Tools:
 
 Everything is for Free!
-- **[Datasets](datasets/):** Access to the project dataset (csv files).
+- **[  <img width="60" height="60" alt="img icons8" src="https://github.com/user-attachments/assets/bb7fcb6f-c7d9-45b8-9f37-94bcc40ca288" />
+Datasets](datasets/):** Access to the project dataset (csv files).
 - **[SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads):** Lightweight server for hosting your SQL database.
 - **[SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16):** GUI for managing and interacting with databases.
 - **[Git Repository](https://github.com/):** Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
-- **[DrawIO](https://www.drawio.com/):** Design data architecture, models, flows, and diagrams.
-- **[Notion](https://www.notion.com/):** All-in-one tool for project management and organization.
+- **[  <img width="160" height="160" alt="img icons8" src="https://github.com/user-attachments/assets/e7a819d8-8f51-4fb5-82db-e0b124ca3927" />
+DrawIO](https://www.drawio.com/):** Design data architecture, models, flows, and diagrams.
+- **[  <img width="160" height="160" alt="img icons8" src="https://github.com/user-attachments/assets/c6c4418f-9259-4eb9-b1c3-d0534abc4e88" />
+Notion](https://www.notion.com/):** All-in-one tool for project management and organization.
 - **[Notion Project Steps](https://thankful-pangolin-2ca.notion.site/SQL-Data-Warehouse-Project-16ed041640ef80489667cfe2f380b269?pvs=4):** Access to All Project Phases and Tasks.
 
 ---
