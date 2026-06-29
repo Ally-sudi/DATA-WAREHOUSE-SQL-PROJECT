@@ -53,7 +53,8 @@ Datasets](datasets/):** Access to the project dataset (csv files).
 DrawIO](https://www.drawio.com/):** Design data architecture, models, flows, and diagrams.
 - **[  <img width="160" height="160" alt="img icons8" src="https://github.com/user-attachments/assets/c6c4418f-9259-4eb9-b1c3-d0534abc4e88" />
 Notion](https://www.notion.com/):** All-in-one tool for project management and organization.
-- **[Notion Project Steps](https://thankful-pangolin-2ca.notion.site/SQL-Data-Warehouse-Project-16ed041640ef80489667cfe2f380b269?pvs=4):** Access to All Project Phases and Tasks.
+- **[VISIT MY PROFILE IN Notion Project Steps]( https://www.notion.so/DATA-WAREHOUSE-3888690bba8380eb83e1dde4d99b96a1?source=copy_link<img width="527" height="430" alt="Screenshot 2026-06-29 060307" src="https://github.com/user-attachments/assets/50a23034-129c-4411-9c32-de430ebd7cf7" />
+):** Access to All Project Phases and Tasks.
 
 ---
 
@@ -120,13 +121,8 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Baraa Khatib Salkini**, also known as **Data With Baraa**. I’m an IT professional and passionate YouTuber on a mission to share knowledge and make working with data enjoyable and engaging!
+Hi there! I'm **ALLY SUDI**, also known as **DATA IN MOTION**. I’m an IT professional and   on a mission to share knowledge and make working with data enjoyable and engaging!
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
-
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](http://bit.ly/3GiCVUE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/baraa-khatib-salkini)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.datawithbaraa.com)
-[![Newsletter](https://img.shields.io/badge/Newsletter-FF5722?style=for-the-badge&logo=substack&logoColor=white)](https://bit.ly/BaraaNewsletter)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/baraasalkini)
-[![Join](https://img.shields.io/badge/Join-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@datawithbaraa)
+ WHATSAPP <img width="96" height="96" alt="img icons8" src="https://github.com/user-attachments/assets/d1e75870-5652-4e27-8cbd-aa2cccce01af" /> 0693470106
+ 
