@@ -7,6 +7,14 @@ Building a Modern Data WaeHouse with SQL Sever Including SQL Sever, ETL Process,
 
 Welcome to the **Data Warehouse and Analytics Project** repository! 🚀  
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
+## DIAGRAMS FLOW
+
+<img width="527" height="430" alt="Screenshot 2026-06-29 060307" src="https://github.com/user-attachments/assets/32b1c8ee-7f71-480a-8355-0f79d340b491" />
+<img width="479" height="439" alt="Screenshot 2026-06-29 064048" src="https://github.com/user-attachments/assets/e13e9ac0-e8a2-45de-8a92-2d031963e76b" />
+
+<img width="497" height="437" alt="Screenshot 2026-06-29 064313" src="https://github.com/user-attachments/assets/efae6ede-04b5-4be9-b21b-68647bcd5e9a" />
+<img width="584" height="411" alt="Screenshot 2026-06-29 064418" src="https://github.com/user-attachments/assets/02d13ff5-68ed-4b68-9846-f32444b97668" />
+
 
 ---
 ## 🏗️ Data Architecture
@@ -53,7 +61,7 @@ Datasets](datasets/):** Access to the project dataset (csv files).
 DrawIO](https://www.drawio.com/):** Design data architecture, models, flows, and diagrams.
 - **[  <img width="160" height="160" alt="img icons8" src="https://github.com/user-attachments/assets/c6c4418f-9259-4eb9-b1c3-d0534abc4e88" />
 Notion](https://www.notion.com/):** All-in-one tool for project management and organization.
-- **[VISIT MY PROFILE IN Notion Project Steps]( https://www.notion.so/DATA-WAREHOUSE-3888690bba8380eb83e1dde4d99b96a1?source=copy_link<img width="527" height="430" alt="Screenshot 2026-06-29 060307" src="https://github.com/user-attachments/assets/50a23034-129c-4411-9c32-de430ebd7cf7" />
+- **[VISIT MY PROFILE IN Notion Project Steps]( https://www.notion.so/DATA-WAREHOUSE-3888690bba8380eb83e1dde4d99b96a1?source=copy_link 
 ):** Access to All Project Phases and Tasks.
 
 ---
@@ -124,5 +132,6 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 Hi there! I'm **ALLY SUDI**, also known as **DATA IN MOTION**. I’m an IT professional and   on a mission to share knowledge and make working with data enjoyable and engaging!
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
- WHATSAPP <img width="96" height="96" alt="img icons8" src="https://github.com/user-attachments/assets/d1e75870-5652-4e27-8cbd-aa2cccce01af" /> 0693470106
+ WHATSAPP <img width="96" height="96" alt="img icons8" src="https://github.com/user-attachments/assets/d1e75870-5652-4e27-8cbd-aa2cccce01af" />  <img width="60" height="60" alt="img icons8" src="https://github.com/user-attachments/assets/2bee14f2-6ab6-464e-9aff-79b9b724d61b" />
+0693470106
  
