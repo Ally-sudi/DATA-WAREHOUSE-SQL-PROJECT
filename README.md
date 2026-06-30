@@ -1,7 +1,16 @@
  
 # DATA-WAREHOUSE-SQL-PROJECT
 Building a Modern Data WaeHouse with SQL Sever Including SQL Sever, ETL Process, Data Modeling and Analytics
-...
+## PITCH
+I am a Data Engineer with hands-on experience in building a data warehouse using the Medallion Architecture approach (Bronze, Silver, and Gold layers).
+
+In my project, I designed and implemented a data pipeline that integrates data from multiple source systems, specifically CRM and ERP systems, each containing three tables.
+
+I focused on the Bronze layer, where I successfully ingested and structured raw data from both CRM and ERP sources into a centralized staging environment. This ensured that all historical and operational data is preserved in its raw form for further transformation and analytics.
+
+My work involved data extraction, loading, and initial structuring using SQL Server, ensuring data consistency, scalability, and readiness for downstream processing in the Silver and Gold layers.
+
+This project demonstrates my ability to handle real-world data integration challenges, build scalable data warehouse foundations, and prepare data for business intelligence and reporting systems.
 
 # Data Warehouse and Analytics Project
 
